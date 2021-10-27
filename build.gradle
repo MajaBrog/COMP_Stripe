@@ -26,6 +26,7 @@ dependencies {
     implementation 'junit:junit:4.12'
     implementation 'com.stripe:stripe-java:20.85.0'
     implementation 'com.google.code.gson:gson:2.8.8'
+    implementation 'org.hibernate:hibernate-validator:7.0.1.Final'
 
 
 }
