@@ -5,4 +5,4 @@ W ramch proejktu obsługiwane jest tworzenie i pobieranie faktur stąd wszelkie 
 W projekcie dodatkowo zawarto:
 - testy jednostkowe przy użyciu bibliotek JUnit oraz Mockito
 - walidacja parametrów z użyciem Hibernate Validator
-- obsługa logowania z użyciem SLF4J i Spring AOP Invoicing implementation
+- obsługa logowania z użyciem SLF4J i Spring AOP
